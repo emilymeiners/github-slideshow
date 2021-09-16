@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Oi mista, you me dad?
 Use the left arrow to go back!
